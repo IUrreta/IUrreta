@@ -4,7 +4,7 @@
 
 I'm **Ignacio**, a Computer Science Engineer 🎓 with a Master's degree in Big Data and Artificial Intelligence 🧠. I'm passionate about technology, data, and anything that goes fast and competes 🏎️🏁. 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=IUrreta&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=IUrreta&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 
 ### 🎓 Education:
 - Bachelor's Degree in **Computer Science Engineering**.
@@ -17,6 +17,7 @@ I'm **Ignacio**, a Computer Science Engineer 🎓 with a Master's degree in Big 
 An app to edit your saved games in the F1 Manager video game.
 
 [![Stars](https://img.shields.io/github/stars/IUrreta/DatabaseEditor?style=social)](https://github.com/IUrreta/DatabaseEditor)
+[![Forks](https://img.shields.io/github/forks/IUrreta/DatabaseEditor?style=social)](https://github.com/IUrreta/DatabaseEditor)
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" height="30"/>
@@ -55,20 +56,23 @@ A project I built with a friend that uses AI for image, text, and audio to predi
 
 ### 📫 How to reach me
 
-<p align="left">
-  <a href="https://x.com/ignaciourreta_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&color=black" alt="Twitter"/>
+### 📫 How to reach me
+
+<p style="display: flex; gap: 10px;">
+  <a href="https://x.com/ignaciourreta_" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X logo" height="30"/>
   </a>
-  <a href="https://www.reddit.com/user/ignaciourreta/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  <a href="https://www.reddit.com/user/ignaciourreta/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit logo" height="30"/>
   </a>
-  <a href="mailto:ignacioutato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ignacioutato@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email logo" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/ignacio-urretavizcaya-tato-2345a4259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ignacio-urretavizcaya-tato-2345a4259/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" height="30"/>
   </a>
 </p>
+
 
 Feel free to explore my projects and get in touch if you'd like to collaborate or just talk tech (or racing 🚗💨)!
 
