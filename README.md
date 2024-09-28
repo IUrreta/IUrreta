@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=IUrreta&color=blue)
 
-I'm **Ignacio**, a Computer Science Engineer 🎓 with a Master's degree in Big Data and Artificial Intelligence 🧠. I'm passionate about technology, data, and anything that goes fast and competes 🏎️🏁. 
+I'm **Ignacio**, a Computer Science Engineer 🎓 who's passionate about technology, data, and anything that goes fast and competes 🏎️🏁. 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=IUrreta&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 
