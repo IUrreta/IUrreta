@@ -56,7 +56,6 @@ A project I built with a friend that uses AI for image, text, and audio to predi
 
 ### 📫 How to reach me
 
-### 📫 How to reach me
 
 <p style="display: flex; gap: 10px;">
   <a href="https://x.com/ignaciourreta_" target="_blank" style="text-decoration: none;">
