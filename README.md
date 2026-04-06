@@ -1,17 +1,17 @@
-## Hello world! 👋🌍
+## Hello world! 
 
 ![Profile views](https://komarev.com/ghpvc/?username=IUrreta&color=blue)
 
-I'm **Ignacio**, a Computer Science Engineer 🎓 who's passionate about technology, data, and anything that goes fast and competes 🏎️🏁. 
+I'm **Ignacio**, a Computer Science Engineer who's passionate about technology, data, and anything that goes fast and competes. 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=IUrreta&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 
-### 🎓 Education:
+### Education:
 - Bachelor's Degree in **Computer Science Engineering**.
 - Master's Degree in **Big Data & Artificial Intelligence**.
 
 
-## 🚀 My Projects
+## My Projects
 
 ### 1. [Database Editor for F1 Manager](https://github.com/IUrreta/DatabaseEditor)
 An app to edit your saved games in the F1 Manager video game.
@@ -30,7 +30,7 @@ An app to edit your saved games in the F1 Manager video game.
 
 
 ### 2. [MotoGPace](https://iurreta.github.io/MotoGPace/)
-A website where I publish MotoGP data analysis (not as regularly as I'd like🤪).
+A website where I publish MotoGP data analysis (not as regularly as I'd like).
 
 [![MotoGPace](https://img.shields.io/badge/MotoGPace-Data%20Analytics-blue)](https://iurreta.github.io/MotoGPace/)
 
@@ -54,7 +54,7 @@ A project I built with a friend that uses AI for image, text, and audio to predi
 
 
 
-### 📫 How to reach me
+###  How to reach me
 
 
 <p style="display: flex; gap: 10px;">
@@ -73,6 +73,6 @@ A project I built with a friend that uses AI for image, text, and audio to predi
 </p>
 
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or just talk tech (or racing 🚗💨)!
+Feel free to explore my projects and get in touch if you'd like to collaborate or just talk tech!
 
 
